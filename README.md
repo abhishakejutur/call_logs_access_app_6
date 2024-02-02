@@ -24,7 +24,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ### **Introduction:**
 
-In the era of advanced mobile technology, creating applications that enhance user experience is imperative. One such application that can be beneficial is a Call Logs Access App, developed using the Flutter framework. This essay will guide you through the process of building a Flutter application that allows users to access and manage their call logs efficiently.
+In the era of advanced mobile technology, creating applications that enhance user experience is imperative. One such application that can be beneficial is a Call Logs Access App, developed using the Flutter framework. This overview will guide you through the process of building a Flutter application that allows users to access and manage their call logs efficiently.
 
 ### **I. Understanding the Flutter Framework:**
 
